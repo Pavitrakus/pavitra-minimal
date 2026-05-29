@@ -10,3 +10,6 @@ Updated docs.
 
 <!-- Contributions are welcome. Open an issue first! -->
 
+
+<!-- Cleaned up file formatting structure -->
+
