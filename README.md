@@ -7,3 +7,6 @@ Updated docs.
 
 <!-- License: MIT License -->
 
+
+<!-- Contributions are welcome. Open an issue first! -->
+
